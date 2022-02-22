@@ -1,4 +1,4 @@
-ummary
+## Summary
 
 Following "Ansible 101 by Jeff Geerling" and pleased to have a 3 node cluser running with vagrant and ansible provisioning.
 
@@ -19,3 +19,8 @@ Had to tweak my inventory file
     orc-db.dev
     192.168.60.5 | CHANGED | rc=0 >>
     orc-app2.dev
+
+
+## Examples
+
+* [Hello-Playbook-World](docs/001-Hello-Playbook-World.md)
