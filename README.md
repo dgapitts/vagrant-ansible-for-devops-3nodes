@@ -23,4 +23,5 @@ Had to tweak my inventory file
 
 ## Examples
 
-* [Hello-Playbook-World](docs/001-Hello-Playbook-World.md)
+* [Hello-Playbook-World - running on localhost1](docs/001-Hello-Playbook-World.md)
+* [Hello-Playbook-World with hardcode `db` host](docs/002-Hello-Playbook-World-hardcode-db-host.md)
